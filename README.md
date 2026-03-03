@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil Gaikwad</h1>
+<h3 align="center">🚀 Java Developer | MERN Stack Developer | Problem Solver</h3>
 
-<!--
-**nikhilgaikwad9540/nikhilgaikwad9540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Backend+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 I build scalable backend systems using **Java & Spring Boot**
+- 🌐 I create modern web applications using **MERN Stack**
+- 🧠 I solve Data Structures & Algorithms problems regularly
+- 🚀 Passionate about writing clean and production-ready code
+- 📍 Based in India
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,react,nodejs,express,mongodb,html,css,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgaikwad9540&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilgaikwad9540&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgaikwad9540&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgaikwad9540&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilgaikwad9540/nikhilgaikwad9540/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 Java Backend Project
+- REST API built with Spring Boot
+- JWT Authentication & Role Based Access
+- MySQL Database Integration
+
+### 🔹 MERN Full Stack Project
+- React Frontend
+- Node.js + Express Backend
+- MongoDB Database
+- Fully Responsive UI
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilgaikwad9540&color=blue" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nikhil-gaikwad-16664027a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:nikhilgaikwad9540@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+<p align="center">
+I turn ☕ coffee into scalable applications.
+</p>
+
+---
+
+<p align="center">
+🔥 “Code. Build. Deploy. Repeat.” 🔥
+</p>

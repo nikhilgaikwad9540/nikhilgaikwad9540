@@ -49,11 +49,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilgaikwad9540/nikhilgaikwad9540/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -74,7 +69,7 @@
 
 ## 👀 Profile Views
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=nikhilgaikwad9540&color=blue" />
 </p>
 
@@ -95,7 +90,7 @@
 
 ## ⚡ Fun Fact
 
-<p align="center">
+<p >
 I turn ☕ coffee into scalable applications.
 </p>
 

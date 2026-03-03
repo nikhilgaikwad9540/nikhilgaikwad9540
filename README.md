@@ -27,17 +27,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgaikwad9540&show_icons=true&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nikhilgaikwad9540&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgaikwad9540&layout=compact&theme=radical" />
-</p>
+
 
 ---
 
@@ -77,7 +73,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p >
 <a href="https://www.linkedin.com/in/nikhil-gaikwad-16664027a/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
